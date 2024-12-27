@@ -1,7 +1,7 @@
 ## Hi there 👋
-🌟 About Me
 
 🌟 About Me
+
 Hi, I'm Alireza! I love creating beautiful web applications that deliver exceptional user experiences.
  I'm passionate about modern web technologies and constantly exploring new ways to bring innovative ideas to life.
 
