@@ -3,7 +3,7 @@
 
 🎓 Bachelor's Degree in Computer Engineering.
 
-💻 Web developer since 2021, focusing on creating functional and visually appealing user interfaces.
+💻 Front-End developer since 2021, focusing on creating functional and visually appealing user interfaces.
 
 🛠 Passionate about modern web technologies and delivering great user experiences.
 
