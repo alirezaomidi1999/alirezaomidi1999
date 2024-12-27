@@ -4,7 +4,9 @@
 
 Hi, I'm Alireza! I love creating beautiful web applications that deliver exceptional user experiences.
  I'm passionate about modern web technologies and constantly exploring new ways to bring innovative ideas to life.
+ 
  **Languages & Frameworks:**
+ 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
