@@ -1,11 +1,9 @@
 ## Hi there 👋
 🌟 About Me
 
-🎓 Bachelor's Degree in Computer Engineering.
-
-💻 Front-End developer since 2021, focusing on creating functional and visually appealing user interfaces.
-
-🛠 Passionate about modern web technologies and delivering great user experiences.
+🌟 About Me
+Hi, I'm Alireza! I love creating beautiful web applications that deliver exceptional user experiences.
+ I'm passionate about modern web technologies and constantly exploring new ways to bring innovative ideas to life.
 
 
 <!--
